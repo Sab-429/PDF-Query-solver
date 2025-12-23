@@ -1,0 +1,8 @@
+.env
+vector_db.joblib
+output.txt
+query_output.txt
+
+embeddings.json
+chunks.json
+sample.pdf
