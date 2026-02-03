@@ -1,5 +1,7 @@
 # 📄🔍 PDF Question Answering System (RAG-powered)
 
+[sample.pdf](https://github.com/user-attachments/files/25054686/sample.pdf)
+
 > **Ask questions to your PDFs. Get precise, source-backed answers. Zero hallucinations.**
 
 This project implements an **end-to-end Retrieval-Augmented Generation (RAG) pipeline** that allows users to upload a PDF, semantically understand its contents, and ask natural-language questions with **accurate, explainable answers grounded strictly in the document**.
